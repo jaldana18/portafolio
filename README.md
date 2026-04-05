@@ -85,9 +85,7 @@ Aplicación objetivo
 
 ---
 
-### 3. Backend Módulo Facturador
-
-[github.com/jaldana18/backend-modulo-facturador](https://github.com/jaldana18/backend-modulo-facturador)
+### 3. Backend Módulo Facturador *(código privado)*
 
 API REST multi-tenant para gestión de usuarios, facturas e inventario multi-bodega.
 
